@@ -1,0 +1,5 @@
+-- CreateTable
+CREATE TABLE "Tema" (
+    "id" INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+    "nombre" TEXT NOT NULL
+);
